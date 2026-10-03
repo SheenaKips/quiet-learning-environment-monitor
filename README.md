@@ -105,4 +105,11 @@ The OLED driver functions in `lib/matlab-oled-lib/` were developed by **Aradhya 
 
 ## Project Context
 
-This project was developed as an engineering project focused on improving learning environments through embedded sensing and real-time feedback.
+## Project Context
+
+Quality education remains a challenge for many education systems worldwide. In alignment with the fourth United Nations Sustainable Development Goal (SDG 4), which focuses on ensuring quality education for all, this project explores how technology can be used to support learning environments.
+
+The project monitors **sound and light levels** within a learning environment and provides feedback based on predefined thresholds. The original project concept focused primarily on detecting excessive noise, but I expanded the system to also monitor lighting conditions because an effective learning environment should be both quiet and adequately lit.
+
+By combining environmental sensing with real-time feedback, the system aims to help identify conditions that may interfere with learning and encourage the maintenance of an environment that supports effective study.
+
