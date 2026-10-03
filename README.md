@@ -28,6 +28,12 @@ Grove Light Sensor ─┘                              │
                          MATLAB Live Visualization
 ```
 
+## Video Demonstration
+
+[![Quiet Learning Environment Monitor Demo](https://img.youtube.com/vi/r-JJpPdLB4c/maxresdefault.jpg)](https://youtu.be/r-JJpPdLB4c)
+
+[▶ Watch the full demonstration](https://youtu.be/r-JJpPdLB4c)
+
 ## Hardware
 
 - Arduino Nano 3 / Grove Beginner Kit
