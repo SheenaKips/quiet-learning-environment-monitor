@@ -16,17 +16,14 @@ The sensor readings are compared against configurable voltage thresholds. The sy
 3. Activates an LED and buzzer when the environment is too noisy or too dark.
 4. Streams sensor readings to MATLAB for live visualization.
 
-## System Architecture
+## System Architecture and Flow
 
-```text
-Grove Sound Sensor ─┐
-                    ├──> MATLAB / Arduino ──> Threshold Logic ──> OLED
-Grove Light Sensor ─┘                              │
-                                                   ├──> LED
-                                                   └──> Buzzer
+The system continuously monitors the surrounding environment using
+sound and light sensors. Sensor readings are evaluated against
+predefined thresholds, and the resulting environmental condition is
+displayed through the OLED and communicated through the alert system.
 
-                         MATLAB Live Visualization
-```
+![System Flowchart](docs/system-flowchart.png)
 
 ## Video Demonstration
 
