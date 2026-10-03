@@ -23,7 +23,7 @@ sound and light sensors. Sensor readings are evaluated against
 predefined thresholds, and the resulting environmental condition is
 displayed through the OLED and communicated through the alert system.
 
-![System Flowchart](docs/system-flowchart.png)
+![System Flowchart](docs/projectflowchart.drawio.png)
 
 ## Video Demonstration
 
